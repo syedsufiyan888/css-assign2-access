@@ -1,0 +1,64 @@
+
+/* main{
+    margin: 5px;
+    color: white;
+} */
+.section1{
+    margin: 30px;
+    color: grey;
+}
+#join{
+    color: rgb(49, 207, 207);
+    text-shadow: aqua;
+    font-weight: bolder;
+}
+.day{
+    color: rgb(138, 205, 38);
+}
+.section2{
+    margin: 0px;
+    display: flex;
+}
+.a1{
+    background-color: rgb(0, 164, 164);
+    padding: 30px;
+    color: white;
+    width: 50%;
+    
+}
+.pmonth{
+    vertical-align: super;
+    color: rgba(255, 255, 255, 0.806);
+
+}
+.dollar{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.button{
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(164, 241, 50);
+    box-shadow: 3px 3px 39px -8px rgba(0,0,0,0.75);
+}
+.a2{
+    background-color: rgb(35, 197, 197);
+    padding: 30px;
+    color: white;
+    width: 50%;
+    font-family:sans-serif;
+}
+.why{
+    font-size: larger;
+    margin: 0;
+    color: white;
+}
+.para{
+    color: rgba(255, 255, 255, 0.662);
+    font-size: medium;
+}
